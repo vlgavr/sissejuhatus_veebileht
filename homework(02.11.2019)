@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+</style>
+</head>
+<body>
+
+<h2>"Forrest Gump"</h2>
+
+<img src=""images.jpg"" alt="Forrest Gump" width="460" height="345">
+
+<p>See on minu lemmikfilm, mis jutustab vaatajatele madala IQ tasemega inimesest, kes elab läbi palju mitmekesiseid sündmusi, mis jäid pimedust USA ajaloos:</p>
+
+<table style="width:100%">
+  <tr>
+    <th>Sündmus</th>
+    <th>Aasta</th>
+     </tr>
+  <tr>
+    <td>Vietnami sõda</td>
+    <td>1955-1975</td>
+    </tr>
+  <tr>
+    <td>Alabama University intsident</td>
+    <td>1963</td>
+    </tr>
+  <tr>
+    <td>Watergate'i skandaal</td>
+    <td>1972</td>
+    </tr>
+</table>
+<p>ja muud.
+<p>Film oli nomineeritud kuuele (6!!!) Oscarile, siis on selge, et, kui te pole varem vaadanud, peate muidugi 2,5 tundi oma graafikust eraldama, et nautida sellist meisriteost.
+<p>Töö autor: Vladimir Gavriltšik 193977</p>
+
+<a href="http://www.ttu.ee">TTÜ koduleht</a>
+
+</body>
+</html>
+
